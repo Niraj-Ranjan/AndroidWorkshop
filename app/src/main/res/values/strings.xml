@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidWorkshop</string>
+    <string name="register">Register</string>
+    <string name="textview">TextView</string>
+</resources>
